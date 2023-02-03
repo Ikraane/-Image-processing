@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: se.kth.idali2.labboration5.view.SuperMain
+Class-Path: javafx-graphics-16.jar javafx-fxml-16-win.jar javafx-swing-1
+ 6-win.jar javafx-swing-16.jar javafx-controls-16.jar javafx-fxml-16.jar
+  javafx-graphics-16-win.jar javafx-base-16-win.jar javafx-base-16.jar j
+ avafx-controls-16-win.jar
+
